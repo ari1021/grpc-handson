@@ -1,6 +1,6 @@
 syntax = "proto3";
 package chat;
-option go_package = "github.com/ari1021/grpc-handson/chat;chat";
+option go_package = "github.com/arkuchy/grpc-handson/chat;chat";
 
 message Message {
   string body = 1;

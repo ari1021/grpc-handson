@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/ari1021/grpc-handson/chat"
+	"github.com/arkuchy/grpc-handson/chat"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

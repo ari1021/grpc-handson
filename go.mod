@@ -1,4 +1,4 @@
-module github.com/ari1021/grpc-handson
+module github.com/arkuchy/grpc-handson
 
 go 1.15
 
